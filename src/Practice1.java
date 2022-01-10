@@ -1,6 +1,6 @@
 public class Practice1 {
     //new file
     //step 1
-    // step
-    // step3
+    // step 2
+    // step 3
 }
